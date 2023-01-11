@@ -1,0 +1,4 @@
+since I can't get arduino working on wifi for some reason
+should be able to get DHT info on pi so want to dockerize
+and also have mqtt docker container
+this project will hold those until they work and I can merge into main project
